@@ -1,6 +1,6 @@
 # Skins Marketplace API
 
-API para gerenciamento de um marketplace de skins de jogos com integração Steam.
+API para gerenciamento de um marketplace de skins de jogos.
 
 ## Descrição
 
