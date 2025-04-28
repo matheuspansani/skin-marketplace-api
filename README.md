@@ -8,7 +8,6 @@ Este projeto implementa uma API RESTful para um marketplace de skins com as segu
 - CRUD completo para usuários
 - CRUD completo para skins
 - Sistema de compra de skins
-- Integração com o inventário Steam
 
 ## Tecnologias utilizadas
 
